@@ -1,0 +1,18 @@
+Create the main.py file
+
+
+In the Google cloud
+goes into the IAM--> Manage Resources and create the project
+In the app engline-- >  go to dashboard and create the application.
+
+Downlaod the Google sdk exe and open the google SDK console
+1) go the path of project location and enter command 
+gcloud init
+
+Pick the existing configration or create the new
+
+choose the account(nitfver@gmail.com)
+
+pick the cloud project to use.
+
+gcloud app deploy --> this command the deploy the app on google cloud. 
